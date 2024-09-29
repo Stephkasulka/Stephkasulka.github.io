@@ -6,4 +6,9 @@ Hi there! I’m Stephanie, a senior-year student at Lehigh University majoring i
 
 ![Lehigh University](school.jpeg)
 
+## Lehigh undergraduate origin data in-class assignment
 ![Lehigh undergraduate origin data](https://github.com/Stephkasulka/Stephkasulka.github.io/blob/main/Beige%20Company%20Organizational%20Chart%20Graph%20(1).jpg?raw=true)
+
+## Creating an infographic assignment
+
+![infographic assignment](https://github.com/Stephkasulka/Stephkasulka.github.io/blob/main/Light%20Blue%20Illustrative%20Simple%20Sea%20Animals%20Infographic.jpg)
