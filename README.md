@@ -26,5 +26,5 @@ This timeline illustrates some of the major moments in the career of now very su
 
 ## Lehigh Fall 2024 Undergraduate College Enrollment Bar Chart
 This bar chart represents the Lehigh University fall 2024 undergraduate class and seperates the student body by college. This represents the percentage of the student body that belongs to each individual college. These colleges include Arts & Sciences, Arts/Engineering, Business, Engineering & Applied Sci, Health, Intercolligate Programs, and General College Div.
-!{undergrad college enrollment bar chart}(https://github.com/Stephkasulka/Stephkasulka.github.io/blob/main/Percentage_of_2024_Lehigh_Student_Body_in_Each_Undergraduate_College_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
+![undergrad college enrollment bar chart](https://github.com/Stephkasulka/Stephkasulka.github.io/blob/main/Percentage_of_2024_Lehigh_Student_Body_in_Each_Undergraduate_College_Percent_of_Undergraduate_Enrollment_chartbuilder.png?raw=true)
 
