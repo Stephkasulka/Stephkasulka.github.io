@@ -36,5 +36,6 @@ This bar chart represents the break down, by ethnicity, of undergraduate student
 ## Lehigh University Accaptance Rate Over the Years Bar Chart
 This line graph displays the acceptance rate at Lehigh University for each graduating class. Like many other schools, Lehigh had significant changes in it's acceptance rate during the pandemic and as a result, many different graduating classes have had different experiences with admission selectivity.
 
-![Acceptance Rate Over the Years](https://raw.githubusercontent.com/Stephkasulka/Stephkasulka.github.io/refs/heads/main/Percentage_of_2024_Lehigh_Student_Body_in_Each_Undergraduate_College_Percent_of_Undergraduate_Enrollment_chartbuilder.png)
+![Acceptance Rate Over the Years](https://raw.githubusercontent.com/Stephkasulka/Stephkasulka.github.io/refs/heads/main/Lehigh's_acceptance_rate_by_graduating_class_Admission_rate_chartbuilder.png)
+
 
