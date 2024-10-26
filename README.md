@@ -42,7 +42,7 @@ This line graph displays the acceptance rate at Lehigh University for each gradu
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1IyFXeRBcMIpQCnNcDdBCxRnZwmOmqWw&ehbc=2E312F" width="640" height="480"></iframe>
 
 ## 2023 Top 10 Safest Countries in the World for LGBTQ+ People
-When traveling, it is important that LGBTQ+ people understand the legal and cultural acceptance of being part of the LGBTQ+ community wherever they plan to travel. While your home country may be accepting, each country has it's own set of rules and not everywhere is safe to travel to. This map charts the 10 safest countries for LGBTQ+ people. If making travel decisions, please do further research into the country and city you have in mind as this list is not all encompassing. 
+When traveling, it is important that LGBTQ+ people understand the legal and cultural acceptance of being part of the LGBTQ+ community wherever they plan to travel. While your home country may be accepting, each country has it's own set of rules and not everywhere is safe to travel to. This map charts the 10 safest countries for LGBTQ+ people based on a Forbes article titled "20 Safest Countries For LGBTQ Travelers, Ranked In A New Report". If making travel decisions, please do further research into the country and city you have in mind as this list is not all encompassing. 
 <iframe src="https://www.google.com/maps/d/u/0/embed?mid=1l2RGApvQVJQenWmljaK_7XbEGIgvwHM&ehbc=2E312F" width="640" height="480"></iframe>
 
 
